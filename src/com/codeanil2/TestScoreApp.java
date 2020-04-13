@@ -29,9 +29,9 @@ public class TestScoreApp {
         double averageScore = scoreTotal / scoreCount;
 
         String message = "\n" +
-                "Score Count:       " + scoreCount + "\n"
-                + "Score Total:     "  + scoreTotal + "\n"
-                + "Average Score:   "  + averageScore + "\n";
+                "The Score Count:       " + scoreCount + "\n"
+                + "The Score Total:     "  + scoreTotal + "\n"
+                + "The Average Score:   "  + averageScore + "\n";
         System.out.println(message);
 
 
